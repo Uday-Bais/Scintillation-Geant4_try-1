@@ -48,6 +48,7 @@ After building, run the simulation:
 ```
 
 ## Usage
+To study number of optical photons produced in a run(single event or batch).
 
 
 
