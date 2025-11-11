@@ -12,6 +12,7 @@ This repository contains a Geant4-based simulation for scintillation processes. 
 ## Prerequisites
 
 - Geant4 (with visualization and UI drivers if needed)
+- Geant4(Prerequisites)
 - CMake
 - A C++ compiler
 
@@ -48,12 +49,9 @@ After building, run the simulation:
 
 ## Usage
 
-[Add any specific usage instructions here, e.g., command-line options or configuration files.]
+
 
 ## Contributing
 
 Feel free to open issues or pull requests for improvements.
 
-## License
-
-[Specify license if any, or MIT as default.]
